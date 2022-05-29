@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/top1.png-d9a3181e0aea5b478d05d80e2c3e0160.stex"
+path="res://.import/ruler.png-7b384309afb19479aef53b6cd53c0099.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/top1.png"
-dest_files=[ "res://.import/top1.png-d9a3181e0aea5b478d05d80e2c3e0160.stex" ]
+source_file="res://assets/sprites/ruler.png"
+dest_files=[ "res://.import/ruler.png-7b384309afb19479aef53b6cd53c0099.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
 flags/repeat=0
-flags/filter=false
+flags/filter=true
 flags/mipmaps=false
 flags/anisotropic=false
 flags/srgb=2
